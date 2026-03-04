@@ -39,7 +39,7 @@ class User{
     + getUserInput(): string
     + getTest_phrase():string
   }
-  class history{ <|------ class User
+  class history{ <|------ User
     - userId: int
     - 
   }
